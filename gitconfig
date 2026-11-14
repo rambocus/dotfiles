@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ajmal.rambocus@envolv.ch
+	name = Ajmal Rambocus
